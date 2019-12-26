@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565385559493",
+    "firebase_url": "https://twintringapp.firebaseio.com",
+    "project_id": "twintringapp",
+    "storage_bucket": "twintringapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565385559493:android:9e493a4b5389fc7cd39fac",
+        "android_client_info": {
+          "package_name": "com.example.twintringregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565385559493-85af9qbqcf0kg90cd940j7o85ihl9p52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twintringregistration",
+            "certificate_hash": "0d99b2e822105e1cffd4dc0e458347807fd61633"
+          }
+        },
+        {
+          "client_id": "565385559493-qad1drjkq6cl628p9m3ago4t4ra17sm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc58znkKuztrY4WQYRw0myL1cVMhYKJMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565385559493-qad1drjkq6cl628p9m3ago4t4ra17sm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
